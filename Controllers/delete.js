@@ -1,0 +1,4 @@
+let DELETE = (function(){
+
+    return{}
+})();
