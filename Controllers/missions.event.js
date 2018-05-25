@@ -57,7 +57,7 @@ let MISSIONS = (function(){
         },
         {
             name:'firstWaste',
-            description:'Build your first Wate Plant',
+            description:'Build your first Waste Plant',
             method:()=>{
 
                 Buildings.forEach(item => {
